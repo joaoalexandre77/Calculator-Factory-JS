@@ -1,0 +1,87 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+    background-color: #F3F4F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calc{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 400px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #1F2933;
+}
+
+.tela{
+    box-sizing: border-box;
+    height: 100px;
+    width: 100%;
+    padding: 0px 10px 0px 0px;
+    margin: 0px 0px 10px 0px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    background-color: #111827;
+    text-align: end;
+    font-size: 35px;
+}
+
+table{
+    flex: 1;
+}
+
+td{
+    width: 100px;
+    text-align: center;
+}
+
+td input {
+    height: 90px;
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    background-color: #3A3F45;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size: 19px;
+    transition: transform 0.1s;
+}
+
+td input:active{
+    transform: scale(0.95);
+}
+
+td input:hover{
+    background-color: #4A5058;
+}
+
+.clear{
+    background-color: #E74C3C;
+}
+
+.clear:hover{
+    background-color: #CF3E30;
+}
+
+.operator-button{
+    background-color: #DDA548;
+}
+
+.operator-button:hover{
+    background-color: #C8943F;
+}
+
+.check-button{
+    background-color: #2ED573;
+}
+
+.check-button:hover{
+    background-color: #26C065;
+}
