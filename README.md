@@ -34,7 +34,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## Preview
 
 <p align="center">
-  <img src="assets/preview/Preview.png" width="400" alt="Preview da calculadora">
+  <img src="assets/preview/Preview.png" width="600" alt="Preview da calculadora">
 </p>
 
 ## Autor
