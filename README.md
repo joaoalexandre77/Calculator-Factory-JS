@@ -37,6 +37,9 @@ https://joaoalexandre77.github.io/Calculator-Factory-JS/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/joaoalexandre77/Calculator-Factory-JS.git
+## ⚠️Atenção!
+
+Utilizado ```eval()``` para processamento matemático, com planos futuros de substituição.
 ## 📝Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
