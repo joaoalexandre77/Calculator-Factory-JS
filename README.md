@@ -34,10 +34,9 @@ https://joaoalexandre77.github.io/Calculator-Factory-JS/
 ```
 ## 💻Como executar
 
-Clone o repositório:
-```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/joaoalexandre77/Calculator-Factory-JS.git
 ## 📝Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
