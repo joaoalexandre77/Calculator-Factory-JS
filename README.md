@@ -1,4 +1,6 @@
 
+![Status](https://img.shields.io/badge/status-complete-success)
+
 # Calculator Factory JS
 Calculadora em JavaScript
 
@@ -6,7 +8,12 @@ Uma calculadora desenvolvida em JavaScript puro.
 Projeto voltado para estudo e portfólio.
 
 
-## Tecnologias
+## Acesse já!
+
+https://joaoalexandre77.github.io/Calculator-Factory-JS/
+
+
+## 🛠️Tecnologias
 
 • HTML5
 
@@ -16,7 +23,7 @@ Projeto voltado para estudo e portfólio.
 ## 📁 Estrutura do Projeto
 
 ```
-📁calculadora-js
+📁APP
 ├── 📁assets
 │   ├── 📁css
 │   ├── 📁audio
@@ -25,20 +32,17 @@ Projeto voltado para estudo e portfólio.
 ├── index.html
 └── README.md
 ```
-## Como executar
+## 💻Como executar
 
 Clone o repositório:
 ```
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
-## Preview
+## 📝Licença
 
-<p align="center">
-  <img src="assets/preview/Preview.png" width="600" alt="Preview da calculadora">
-</p>
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-## Autor
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-João Alexandre Pinto Camargo
 
-Estudante de Desenvolvimento de Software Multiplataforma - FATEC (DSM)
+
